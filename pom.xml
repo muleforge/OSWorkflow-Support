@@ -9,7 +9,7 @@
 	<groupId>org.mule.transports</groupId>
 	<artifactId>mule-transport-osworkflow</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0</version>
+	<version>1.0-SNAPSHOT</version>
 	<properties>
 		<muleVersion>1.4.1</muleVersion>
 	</properties>
@@ -25,7 +25,7 @@
 		</snapshotRepository>
 		<site>
 			<id>muleforge.webdav.sites</id>
-			<url>dav:https://dav.muleforge.org/osworkflow-transport/</url>
+			<url>dav:https://dav.muleforge.org/osworkflow-transport/maven</url>
 		</site>
 	</distributionManagement>
 	<build>
